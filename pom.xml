@@ -45,13 +45,13 @@
   
   <distributionManagement>
 	<repository>
-		<id>deploymentRepo</id>
+		<id>Nexus</id>
 		<name>Internal Releases</name>
 		<url>http://18.224.7.24:8081/repository/Assignment/</url>
 	</repository>
  
 	<snapshotRepository>
-		<id>deploymentRepo</id>
+		<id>Nexus</id>
 		<name>Internal Releases</name>
 		<url>http://18.224.7.24:8081/repository/Assignment-snapshot/</url>
 	</snapshotRepository>
